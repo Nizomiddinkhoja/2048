@@ -67,6 +67,7 @@
 }
 
 .overlay-text {
+  text-align: center;
   font-size: 100px;
   position: absolute;
   top: 50%;

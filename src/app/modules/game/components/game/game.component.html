@@ -1,7 +1,7 @@
 <div class="game-container">
   <h2>
-    <strong>Scores: {{gameService.scores}}</strong>
-    <button (click)="gameService.reset()" class="new-game-button">Start new game</button>
+    <strong>Ҳисоб: {{gameService.scores}}</strong>
+    <button (click)="gameService.reset()" class="new-game-button">Аз нав</button>
   </h2>
   <div class="grid-container">
     <div class="grid-row">
@@ -35,7 +35,7 @@
       </div>
     </div>
     <div *ngIf="gameService.theEnd" class="overlay">
-      <div class="overlay-text">The end</div>
+      <div class="overlay-text">Бози тамом:)</div>
     </div>
   </div>
 </div>
