@@ -1,3 +1,3 @@
 # Game2048
 
-Link to preview: https://github.com/Nizomiddinkhoja/2048/blob/master/dist/game2048/index.html
+Link to preview: https://nizomiddinkhoja.github.io/2048/dist/game2048/index.html
